@@ -61,7 +61,7 @@ Usage
 
 .. code:: console
 
-   $ cookiecutter https://github.com/ThomasCamminady/cookiecutter-hypermodern-python
+   cookiecutter https://github.com/ThomasCamminady/cookiecutter-hypermodern-python
 
 Features
 ========
