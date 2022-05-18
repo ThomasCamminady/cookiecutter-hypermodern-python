@@ -61,8 +61,7 @@ Usage
 
 .. code:: console
 
-   $ cookiecutter gh:cjolowicz/cookiecutter-hypermodern-python --checkout=2021.11.26
-
+   $ cookiecutter https://github.com/ThomasCamminady/cookiecutter-hypermodern-python
 
 Features
 ========
