@@ -226,8 +226,8 @@ def docs_build(session: Session) -> None:
 def docs(session: Session) -> None:
     """Build and serve the documentation with live reloading on file changes."""
     args = session.posargs or [
-        "--open-browser", 
-        "documentation", 
+        "--open-browser",
+        "documentation",
         "documentation/_build",
     ]
     session.install(".")
