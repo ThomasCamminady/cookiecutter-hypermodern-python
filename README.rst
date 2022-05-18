@@ -92,7 +92,7 @@ Features
 - Generate command-line reference with sphinx-click_
 - Manage project labels with `GitHub Labeler`_
 
-The template supports Python 3.9, and 3.10.
+The template supports Python 3.9 and 3.10.
 
 .. features-end
 
